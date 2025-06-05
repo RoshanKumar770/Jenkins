@@ -1,6 +1,0 @@
-AWSTemplateFormatVersion: '2012-09-09'
-Description: "This is first cloud formation template "
-Resources:
-  MyEC2Instance:
-   Type: AWS::EC2::Instance
-   Properties:  #pending
